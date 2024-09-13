@@ -68,8 +68,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE] para mais detalh
 
 ---
 
+<p align="center">
+  Desenvolvido com 💜 por Abraão Moreira
+</p>
 
-Desenvolvido com 💜 por Abraão Moreira
 
 
 
