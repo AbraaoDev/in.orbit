@@ -51,6 +51,7 @@ npm run seed
 npm run dev
 ```
 
+#### Front-end
 
 ```zsh
 # Instalar Dependências
