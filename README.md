@@ -2,10 +2,12 @@
   <img src="git.png" width="150" >
 </p>
 
+>  Fala Dev's, o Gerenciador de metas está aqui! 👋🏼
 
-<h3 align="center">
-  Fala Dev's, o Gerenciador de metas está aqui! 👋🏼
-</h3>
+
+
+
+
 
 ## 📖 Sobre o projeto
 
